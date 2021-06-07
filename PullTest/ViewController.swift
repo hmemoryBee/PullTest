@@ -13,6 +13,8 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        print("Time to choose Mr Freeman")
     }
 
     override var representedObject: Any? {
