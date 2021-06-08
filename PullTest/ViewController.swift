@@ -14,10 +14,9 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         
-        print("Wake up Mr. Freeman. Wake up and smell the ashes")
         print("Time to choose Mr Freeman")
         print("It's time to choose")
-        
+        print("Wake up Mr. Freeman. Wake up and smell the ashes")
     }
 
     override var representedObject: Any? {
@@ -25,7 +24,5 @@ class ViewController: NSViewController {
         // Update the view, if already loaded.
         }
     }
-
-
 }
 
