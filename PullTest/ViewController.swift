@@ -16,7 +16,7 @@ class ViewController: NSViewController {
         
         print("Time to choose Mr Freeman")
         print("It's time to choose")
-        print("Wake up and smell the ashes" )
+        print("Wake up and smell the ashes")
     }
 
     override var representedObject: Any? {
