@@ -13,8 +13,9 @@ class ViewController: NSViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        
-        print("XCode 13 Test")
+
+        print("XCode 13 Test #1")
+        print("XCode 13 Test #2")
         
     }
 
