@@ -14,9 +14,6 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         
-        print("Time to choose Mr Freeman")
-        print("It's time to choose")
-        
     }
 
     override var representedObject: Any? {
