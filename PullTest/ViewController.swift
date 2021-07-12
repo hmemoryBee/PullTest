@@ -14,7 +14,8 @@ class ViewController: NSViewController {
 
         // Do any additional setup after loading the view.
         
-        print("XCode 13 Test")
+        print("Time to choose Mr Freeman")
+        print("It's time to choose")
         
     }
 
