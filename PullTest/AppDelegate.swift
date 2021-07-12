@@ -20,7 +20,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
     func applicationWillTerminate(_ aNotification: Notification) {
         // Insert code here to tear down your application
         // added comment.
-        // #2
+        // #2 #3
     }
 
     func applicationSupportsSecureRestorableState(_ app: NSApplication) -> Bool {
