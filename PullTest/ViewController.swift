@@ -16,6 +16,7 @@ class ViewController: NSViewController {
 
         print("XCode 13 Test #1")
         print("XCode 13 Test #2")
+        print("XCode 13 Test #3")
         
     }
 
